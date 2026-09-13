@@ -1,0 +1,10 @@
+subject_id,split_official,n_raw_clips,n_valid_clips,n_abnormal_clips
+S0101,train,210,200,10
+S0201,train,210,206,4
+S0501,train,210,208,2
+S0601,train,240,237,3
+S0701,train,200,197,3
+S0801,train,200,193,7
+S0901,test,200,137,63
+S1001,test,200,195,5
+S1101,test,200,195,5

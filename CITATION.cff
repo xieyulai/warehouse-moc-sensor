@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Warehouse MoC+Sensor"
+message: "If you use this dataset, please cite the paper below."
+type: dataset
+repository-code: "https://gitee.com/REPLACE_ME/warehouse-moc-sensor"
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Xie
+    given-names: Yulai
+  - family-names: Fu
+    given-names: Yijia
+  - family-names: Xu
+    given-names: Qing
+  - family-names: Ren
+    given-names: Fang
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xie
+      given-names: Yulai
+    - family-names: Fu
+      given-names: Yijia
+    - family-names: Xu
+      given-names: Qing
+    - family-names: Ren
+      given-names: Fang
+  title: "Sensor-to-Sensor procedural co-learning for sensor-limited human action recognition"
+  journal: "Expert Systems with Applications"
+  year: 2026
+  volume: 319
+  pages: 132094
+  issn: "0957-4174"
+  doi: 10.1016/j.eswa.2026.132094
+  url: "https://www.sciencedirect.com/science/article/pii/S0957417426010079"

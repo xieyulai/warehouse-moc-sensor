@@ -1,0 +1,26 @@
+class_id,class_code,class_name,subclass_code,subclass_name,n_raw_clips,notes
+0,A01,walking,A0101,walk,90,
+0,A01,walking,A0102,walk while pushing a cart,90,
+0,A01,walking,A0103,walk while pulling a cart,90,
+1,A02,picking,A0201,put down with both hands,90,
+1,A02,picking,A0202,put down with right hand palm up,90,
+1,A02,picking,A0203,put down with right hand palm down,90,
+1,A02,picking,A0204,put down (extra variant),30,not collected for all subjects
+2,A03,shelf,A0301,place an item on a shelf with right hand,90,fewest class
+3,A04,throwing,A0401,light throw with right hand,90,
+3,A04,throwing,A0402,harder / farther throw with right hand,90,
+3,A04,throwing,A0403,light throw with both hands,90,
+4,A05,pointing,A0501,standing finger safety check (left/right/front),90,
+4,A05,pointing,A0502,sitting finger safety check (left/right/front),90,
+5,A06,driving,A0601,left hand on steering wheel + right hand on lever,90,
+5,A06,driving,A0602,left hand on wheel + right hand on lever (variant),90,
+5,A06,driving,A0603,normal-speed drive,10,S0601 only
+5,A06,driving,A0604,high-speed drive,10,S0601 only
+5,A06,driving,A0605,normal turn,10,S0601 only
+5,A06,driving,A0606,high-speed turn,10,S0601 only
+6,A07,idle_or_scan,A0701,standing idle,90,
+6,A07,idle_or_scan,A0702,sitting idle,90,
+6,A07,idle_or_scan,A0703,standing barcode scan with right hand,90,
+6,A07,idle_or_scan,A0704,squatting barcode scan with right hand,90,
+7,A08,packing,A0801,pack (open / fill / close / tape),90,longer takes
+7,A08,packing,A0802,pack (split of the same sequence),90,
