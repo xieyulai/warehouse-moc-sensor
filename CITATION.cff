@@ -2,8 +2,8 @@ cff-version: 1.2.0
 title: "Warehouse MoC+Sensor"
 message: "If you use this dataset, please cite the paper below."
 type: dataset
-repository-code: "https://gitee.com/REPLACE_ME/warehouse-moc-sensor"
-license: CC-BY-NC-4.0
+license: MIT
+repository-code: "https://github.com/xieyulai/warehouse-moc-sensor"
 authors:
   - family-names: Xie
     given-names: Yulai

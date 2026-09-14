@@ -259,7 +259,7 @@ Do **not** replace this list by a simple `T >= 40` filter (that would keep the 1
 
 ## License and ethics
 
-Default file [`LICENSE`](LICENSE): **CC BY-NC 4.0** (confirm before public upload). Subjects are listed only as `Sxxxx`. This dump has **no video**.
+Released under the **[MIT License](LICENSE)**. Subjects are listed only as `Sxxxx`. This dump has **no video**.
 
 ---
 
